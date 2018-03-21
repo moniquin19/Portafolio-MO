@@ -650,7 +650,7 @@ li {
 /*                      SECTION FUN FACTS                          */
 /*-----------------------------------------------------------------*/
 .facts {
-    background: url(http://placehold.it/740x270) center left no-repeat;
+    background: url(../images/skills.jpg) center left no-repeat;
     background-size: cover;
 }
 
@@ -696,7 +696,7 @@ li {
     border: solid 1px #1a1a1a;
     padding: 20px;
     margin-top: 30px;
-    max-height: 140px;
+    max-height: 126px;
     overflow: hidden;
 }
 
